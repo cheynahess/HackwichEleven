@@ -13,6 +13,7 @@
 		9FED4DE527F6CAD800BFF719 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FED4DE327F6CAD800BFF719 /* Main.storyboard */; };
 		9FED4DE727F6CAD900BFF719 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FED4DE627F6CAD900BFF719 /* Assets.xcassets */; };
 		9FED4DEA27F6CAD900BFF719 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FED4DE827F6CAD900BFF719 /* LaunchScreen.storyboard */; };
+		9FED4DF227F6CF5D00BFF719 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FED4DF127F6CF5D00BFF719 /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9FED4DE627F6CAD900BFF719 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FED4DE927F6CAD900BFF719 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9FED4DEB27F6CAD900BFF719 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FED4DF127F6CF5D00BFF719 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9FED4DDD27F6CAD800BFF719 /* AppDelegate.swift */,
 				9FED4DDF27F6CAD800BFF719 /* SceneDelegate.swift */,
 				9FED4DE127F6CAD800BFF719 /* ViewController.swift */,
+				9FED4DF127F6CF5D00BFF719 /* Restaurant.swift */,
 				9FED4DE327F6CAD800BFF719 /* Main.storyboard */,
 				9FED4DE627F6CAD900BFF719 /* Assets.xcassets */,
 				9FED4DE827F6CAD900BFF719 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FED4DF227F6CF5D00BFF719 /* Restaurant.swift in Sources */,
 				9FED4DE227F6CAD800BFF719 /* ViewController.swift in Sources */,
 				9FED4DDE27F6CAD800BFF719 /* AppDelegate.swift in Sources */,
 				9FED4DE027F6CAD800BFF719 /* SceneDelegate.swift in Sources */,
